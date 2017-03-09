@@ -3,7 +3,7 @@
     "type": "wordpress-plugin",
     "description": "Completely remove the 'Remember Me' option from the WordPress Login form.",
     "homepage": "https://github.com/WPSwitzerland/remembermenot",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "require": {
         "composer/installers": "^1.0"
     }
