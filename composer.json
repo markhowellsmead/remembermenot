@@ -1,7 +1,7 @@
 {
     "name": "WPSwitzerland/remembermenot",
     "type": "wordpress-plugin",
-    "description": "Completely remove the "Remember Me" option from the WordPress Login form.",
+    "description": "Completely remove the 'Remember Me' option from the WordPress Login form.",
     "homepage": "https://github.com/WPSwitzerland/remembermenot",
     "version": "1.1.0",
     "require": {
